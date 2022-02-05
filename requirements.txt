@@ -1,0 +1,10 @@
+torchvision    
+torch    
+numpy   
+matplotlib      
+h5py 
+gitpython           
+scikit_image
+nibabel
+
+
